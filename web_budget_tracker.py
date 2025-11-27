@@ -103,4 +103,3 @@ if __name__ == '__main__':
     print("📱 Open your browser and go to: http://localhost:5000")
     print("🛑 Press Ctrl+C to stop the server")
     app.run(debug=True)
-
